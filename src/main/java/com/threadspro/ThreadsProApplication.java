@@ -35,23 +35,7 @@ public class ThreadsProApplication extends Thread {
 		t.start();
 		
 		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-		System.out.println( "Hello World");
-	
+
 		
 		
 		
